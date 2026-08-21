@@ -14,6 +14,10 @@ Detects faces via webcam (or from an image) and classifies the emotion — e.g.,
 ```bash
 pip install opencv-python deepface matplotlib
 ```
+## use conda environment
+ install anaconda 
+ create conda environment  -------> conda create --name myenv
+for activate               -------> conda activate myvemnv
 
 ## Usage
 
