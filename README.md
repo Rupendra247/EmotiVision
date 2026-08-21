@@ -17,7 +17,7 @@ pip install opencv-python deepface matplotlib
 ## use conda environment
  install anaconda 
  create conda environment  -------> conda create --name myenv
-for activate               -------> conda activate myvemnv
+ activate the environment  -------> conda activate myvemnv
 
 
 
